@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Shadcn Playground</div>;
+  return <div></div>;
 }
