@@ -1,30 +1,9 @@
 "use client";
-import {
-  NavigationMenu,
-  NavigationMenuContent,
-  NavigationMenuIndicator,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-  NavigationMenuViewport,
-} from "@/components/ui/navigation-menu";
-import React from "react";
-import { navigationMenuTriggerStyle } from "../ui/navigation-menu";
-import Link from "next/link";
+
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { Bell, Search } from "lucide-react";
-import { usePathname, useRouter } from "next/navigation";
-
-type RouteProp = {
-  label: string;
-  href: string;
-};
-
-interface NavbarProps {
-  routes?: RouteProp[];
-}
+import NavLinks from "./NavLinks";
 
 const defaultRoutes = [
   {
@@ -45,9 +24,7 @@ const defaultRoutes = [
   },
 ];
 
-const Navbar = ({ routes = defaultRoutes }: NavbarProps) => {
-  const pathname = usePathname();
-
+const Navbar = () => {
   return (
     <nav className="shadow-md relative pb-[3px]">
       <div className="flex justify-between px-[2rem] pt-[1.18rem] pb-[0.6rem]">
@@ -77,21 +54,7 @@ const Navbar = ({ routes = defaultRoutes }: NavbarProps) => {
         </div>
       </div>
       <div className="pl-[8.9rem]">
-        <NavigationMenu>
-          <NavigationMenuList className="flex gap-[1.25rem]">
-            {routes?.map((route) => (
-              <NavigationMenuItem
-                key={route.href}
-                className={`${
-                  pathname === route.href &&
-                  "border-b-4 border-secondary font-bold"
-                } text-[1rem] text-secondary`}
-              >
-                <Link href={route.href}>{route.label}</Link>
-              </NavigationMenuItem>
-            ))}
-          </NavigationMenuList>
-        </NavigationMenu>
+        <NavLinks routes={defaultRoutes} />
       </div>
     </nav>
   );

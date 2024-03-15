@@ -19,7 +19,16 @@ import {
   SlidersVertical,
   Trash2,
 } from "lucide-react";
-import { Input } from "@/components/ui/input";
+import { Input, EfoodInput } from "@/components/ui/input";
+import {
+  Sheet,
+  SheetContent,
+  SheetDescription,
+  SheetFooter,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
 
 // export const metadata: Metadata = {
 //   title: "Banners",
@@ -42,7 +51,7 @@ export default function Layout({
                 <Input
                   type="search"
                   placeholder="Search name of  the campaign"
-                  className="bg-transparent w-[260px] border-none placeholder:text-secondary placeholder:text-[1rem]"
+                  className="bg-transparent w-[270px] border-none placeholder:text-secondary placeholder:text-[1rem]"
                 />
               </div>
             </NavigationMenuItem>
@@ -58,12 +67,50 @@ export default function Layout({
                 Download
               </Button>
             </NavigationMenuItem>
-            <NavigationMenuItem>
-              <Button variant="ghost">
-                <Plus className="mr-2" />
-                Upload Banner
+            <Sheet>
+              <Button variant="ghost" asChild>
+                <SheetTrigger>
+                  <Plus className="mr-2" />
+                  <NavigationMenuItem>Upload Banner</NavigationMenuItem>
+                </SheetTrigger>
               </Button>
-            </NavigationMenuItem>
+              <SheetContent
+                onOpenAutoFocus={(e) => e.preventDefault()}
+                className="px-[3rem]"
+              >
+                <div className="flex h-full gap-[2rem]">
+                  <div>
+                    <SheetHeader>
+                      <SheetTitle>Assets</SheetTitle>
+                    </SheetHeader>
+                    <div>
+                      <EfoodInput label="Name Of Campaign" />
+                    </div>
+                  </div>
+                  <div className="flex flex-col justify-between">
+                    <div>
+                      <SheetHeader>
+                        <SheetTitle>Info</SheetTitle>
+                      </SheetHeader>
+                      <div>
+                        <EfoodInput label="Name Of Campaign" />
+                      </div>
+                    </div>
+                    <SheetFooter>
+                      <Button
+                        className="w-full py-6 text-secondary font-bold bg-muted-foreground"
+                        variant="ghost"
+                      >
+                        Cancel
+                      </Button>
+                      <Button className="w-full py-6 text-secondary font-bold">
+                        Save
+                      </Button>
+                    </SheetFooter>
+                  </div>
+                </div>
+              </SheetContent>
+            </Sheet>
             <NavigationMenuItem>
               <Button variant="ghost">
                 <SlidersVertical className="mr-2" />
