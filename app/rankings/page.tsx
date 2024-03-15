@@ -2,7 +2,14 @@
 
 import React from "react";
 
-import { Search, Files, Trash2, Plus, SlidersVertical } from "lucide-react";
+import {
+  Search,
+  Files,
+  Trash2,
+  Plus,
+  SlidersVertical,
+  ChevronsUpDown,
+} from "lucide-react";
 
 // import Table from "@/components/table/Table";
 
@@ -21,9 +28,7 @@ import { Search, Files, Trash2, Plus, SlidersVertical } from "lucide-react";
 import {
   Table,
   TableBody,
-  TableCaption,
   TableCell,
-  TableFooter,
   TableHead,
   TableHeader,
   TableRow,
@@ -73,7 +78,168 @@ const Rankings = () => {
           </div>
         </div>
       </div>
-      <Table></Table>
+      <Table>
+        <TableHeader>
+          <TableRow className="text-black text-center">
+            <TableHead>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableHead>
+            <TableHead>
+              <div className="flex justify-between items-center gap-1 w-fit">
+                Name of Rule
+                <ChevronsUpDown className="text-gray-600 w-4 h-4" />
+              </div>
+            </TableHead>
+            <TableHead>
+              <div className="flex justify-between items-center gap-1 w-fit">
+                Num Of Banners
+                <ChevronsUpDown className="text-gray-600 w-4 h-4" />
+              </div>
+            </TableHead>
+            <TableHead>
+              <div className="flex justify-between items-center gap-1 w-fit">
+                Creator
+                <ChevronsUpDown className="text-gray-600 w-4 h-4" />
+              </div>
+            </TableHead>
+            <TableHead>
+              <div className="flex justify-between items-center gap-1 w-fit">
+                Last Edit
+                <ChevronsUpDown className="text-gray-600 w-4 h-4" />
+              </div>
+            </TableHead>
+            <TableHead>
+              <div className="flex justify-between items-center gap-1 w-fit">
+                Status
+                <ChevronsUpDown className="text-gray-600 w-4 h-4" />
+              </div>
+            </TableHead>
+          </TableRow>
+        </TableHeader>
+        <TableBody>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">2</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-primary w-3 h-3 outline-none rounded-lg"></div>
+                <span>Used</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">2</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-black w-3 h-3 outline-none rounded-lg"></div>
+                <span>Unused</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">10</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-primary w-3 h-3 outline-none rounded-lg"></div>
+                <span>Used</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">8</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-primary w-3 h-3 outline-none rounded-lg"></div>
+                <span>Used</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">9</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-black w-3 h-3 outline-none rounded-lg"></div>
+                <span>Unused</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">2</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-primary w-3 h-3 outline-none rounded-lg"></div>
+                <span>Used</span>
+              </div>
+            </TableCell>
+          </TableRow>
+          <TableRow>
+            <TableCell>
+              <div className="flex justify-between items-center">
+                <input type="checkbox" className="w-5 h-5" />
+              </div>
+            </TableCell>
+            <TableCell>Breakfast</TableCell>
+            <TableCell className="text-center">10</TableCell>
+            <TableCell>Nikos Portokaloglou</TableCell>
+            <TableCell>15/3/2024 11:00</TableCell>
+            <TableCell>
+              <div className="flex justify-between items-center gap-2 w-fit">
+                <div className="bg-black w-3 h-3 outline-none rounded-lg"></div>
+                <span>Unused</span>
+              </div>
+            </TableCell>
+          </TableRow>
+        </TableBody>
+      </Table>
     </div>
   );
 };
