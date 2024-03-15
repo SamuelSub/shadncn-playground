@@ -1,4 +1,5 @@
 import {
+  EfoodTableHead,
   Table,
   TableBody,
   TableCaption,
@@ -24,50 +25,40 @@ const images = [
 const Banners = () => {
   return (
     <div>
-      <Table className="table-auto">
+      <Table>
         <TableHeader>
-          <TableRow className="text-[1rem] font-bold ">
-            <TableHead className="pl-[2rem]">
-              <Checkbox className="w-[24px] h-[24px] border-black opacity-[0.3]" />
-            </TableHead>
-            <TableHead>
-              <div className="flex items-center gap-[0.5rem]  py-[1.3rem]">
-                Banner
-              </div>
-            </TableHead>
-            <TableHead>
-              <div className="flex items-center gap-[0.5rem]">
-                Name of the campaign
-                <ChevronsUpDown size="15px" />
-              </div>
-            </TableHead>
-            <TableHead className="">
-              <div className=" flex items-center gap-[0.5rem]">
-                Status
-                <ChevronsUpDown size="15px" />
-              </div>
-            </TableHead>
-            <TableHead className="">
-              <div className=" flex items-center gap-[0.5rem]">
-                Upload Date
-                <ChevronsUpDown size="15px" />
-              </div>
-            </TableHead>
-            <TableHead className="w-full">
-              <div className=" flex items-center gap-[0.5rem]">
-                Creator
-                <ChevronsUpDown size="15px" />
-              </div>
-            </TableHead>
+          <TableRow>
+            <EfoodTableHead className="pl-[2rem]">
+              <Checkbox />
+            </EfoodTableHead>
+            <EfoodTableHead className="flex items-center gap-[0.5rem] py-[1.3rem]">
+              Banner
+            </EfoodTableHead>
+            <EfoodTableHead>
+              Name of the campaign
+              <ChevronsUpDown size="15px" />
+            </EfoodTableHead>
+            <EfoodTableHead className="">
+              Status
+              <ChevronsUpDown size="15px" />
+            </EfoodTableHead>
+            <EfoodTableHead className="">
+              Upload Date
+              <ChevronsUpDown size="15px" />
+            </EfoodTableHead>
+            <EfoodTableHead className="w-full">
+              Creator
+              <ChevronsUpDown size="15px" />
+            </EfoodTableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
           {[1, 2, 3, 4, 5, 6, 7].map((row, index) => (
             <TableRow key={row} className="cursor-pointer">
               <TableCell className="pl-[2rem]">
-                <Checkbox className="w-[24px] h-[24px]" />
+                <Checkbox />
               </TableCell>
-              <TableCell className="py-[1.3rem] px-[0rem] pl-[3.8rem]">
+              <TableCell className="px-[0rem] pl-[3.8rem]">
                 <Image
                   src={images[index]}
                   width={120}
