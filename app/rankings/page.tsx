@@ -125,6 +125,7 @@ const Rankings = () => {
                 <input type="checkbox" className="w-5 h-5" />
               </div>
             </TableCell>
+
             <TableCell>Breakfast</TableCell>
             <TableCell className="text-center">2</TableCell>
             <TableCell>Nikos Portokaloglou</TableCell>
