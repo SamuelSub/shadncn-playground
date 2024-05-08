@@ -1,0 +1,3814 @@
+{
+  "hero-banners-data": [
+    {
+      "id": "1",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hillery Hampshaw",
+      "created_by": "Kaine Middlebrook",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/269552/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Nada Cordelet",
+      "created_by": "Gisella Ivimey",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1067/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rawley Hedworth",
+      "created_by": "Franzen Bateman",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 732
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/5825853/cover?t=1707750022&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Yuma Seeborne",
+      "created_by": "Sheridan Davitti",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/191621/cover?t=1649761094&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Anestassia Bullingham",
+      "created_by": "Micheline GriFlavor Fiestaton",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/6570226/cover?t=1690288813&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Dacie Cathesyed",
+      "created_by": "CassonYum Yarda Menichino",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 527
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1890083/cover?t=1694604020&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jonathan Fardoe",
+      "created_by": "Florinda Burnyeat",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/33569/cover?t=1707828449&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Brigida Mackilpatrick",
+      "created_by": "Lynnette Gamett",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/269552/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Beauregard Orford",
+      "created_by": "Griffith Deller",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/836244/cover?t=1695122263&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Cullen Borres",
+      "created_by": "Izzy JeYum Yardas",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 800
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1067/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Modesta Bartles",
+      "created_by": "Dugald Ettels",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/5825853/cover?t=1707750022&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Emmery Devo",
+      "created_by": "Edgard Lazare",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 336
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/299529/cover?t=1686649684&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Donalt Iacavone",
+      "created_by": "Sherline Wathell",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/191621/cover?t=1649761094&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Burlie Pheazey",
+      "created_by": "Fran Cossentine",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 721
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/191621/cover?t=1649761094&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Verine Brose",
+      "created_by": "Fransisco Petrozzi",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 561
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/6570226/cover?t=1690288813&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Arabele Divver",
+      "created_by": "Bink Minto",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/6570226/cover?t=1690288813&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Findlay Yakovliv",
+      "created_by": "Iormina Maccraw",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1067/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Axel Spawton",
+      "created_by": "Rowan Denson",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1890083/cover?t=1694604020&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Benjamin Amaya",
+      "created_by": "Dniren Dyet",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/1890083/cover?t=1694604020&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Dita Curedale",
+      "created_by": "Valli Brose",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 943
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/33569/cover?t=1707828449&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Colas Leedal",
+      "created_by": "Waylan Bentson",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 353
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/5325688/cover?t=1673354376&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jecho O'Cannan",
+      "created_by": "Andonis Connick",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/269552/cover?t=1647428522&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Leonid McKeefry",
+      "created_by": "Daphna Rignoldes",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/5325688/cover?t=1673354376&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hedda Emeny",
+      "created_by": "Egbert Hoyland",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 560
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/33569/cover?t=1707828449&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Alford Ricco",
+      "created_by": "Benoite Bevington",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/836244/cover?t=1695122263&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hermann Clunan",
+      "created_by": "Forrester McAllester",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 851
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Bernarr Novotne",
+      "created_by": "Nilson Yedy",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 2
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "29",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jori Croston",
+      "created_by": "Adina JerraFlavor Fiesta",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 571
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Dimitri Valentim",
+      "created_by": "Reynard Cheesman",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 711
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "31",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Bella McAmish",
+      "created_by": "Janetta Harriot",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 17
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "32",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Heidie Gibbie",
+      "created_by": "Benedicta Phittiplace",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 67
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "33",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Addy O'Kielt",
+      "created_by": "Wylma Rime",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "34",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Alard Ipsly",
+      "created_by": "Dana Caffrey",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "35",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Maynord Finkle",
+      "created_by": "Garret Bonar",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "36",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Ulysses Alvin",
+      "created_by": "Pancho Nickerson",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "37",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Magdalene Hundall",
+      "created_by": "Alicia Wykey",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Mollee Meininger",
+      "created_by": "Crin Somerbell",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 790
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "39",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Gayler Bambrugh",
+      "created_by": "Vernen Laxe",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "40",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Dulcia Ferrario",
+      "created_by": "Myrtle Antoniutti",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "41",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Javier Dederick",
+      "created_by": "Estevan Romer",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 185
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/836244/cover?t=1695122263&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "42",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Yorker McQuie",
+      "created_by": "Gale Blessed",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 367
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "43",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Kai Crossley",
+      "created_by": "Berkly Filliskirk",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "44",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Paule Beran",
+      "created_by": "Tris Fielders",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/836244/cover?t=1695122263&platform=web",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "45",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Lilia Ventom",
+      "created_by": "Tito Gilpillan",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 990
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "46",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Fawn Beckensall",
+      "created_by": "Burton Berthot",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 546
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "47",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Koo McSwan",
+      "created_by": "Concettina Tizard",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 163
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "48",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Lulu Jacquemot",
+      "created_by": "Ronnie Orrobin",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 469
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "49",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Novelia Seeler",
+      "created_by": "Hayley Jouannisson",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 769
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "50",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hal Medhurst",
+      "created_by": "Silvano McGeagh",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "51",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Etty Really",
+      "created_by": "Jarvis Sullivan",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "52",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Evania Wyper",
+      "created_by": "Bevvy Giacobilio",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "53",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Udale Robert",
+      "created_by": "Koenraad Escritt",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 53
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "54",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Belita Casbourne",
+      "created_by": "Leah Lavens",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "55",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hyatt Torrance",
+      "created_by": "Sergio Kunisch",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 457
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "56",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Melania Hibbart",
+      "created_by": "Emmott AnYum Yardoli",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 267
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "57",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Arvy Beteriss",
+      "created_by": "Ky Woolfoot",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 785
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "58",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Gualterio Glasman",
+      "created_by": "Felicio Sand",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "59",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Paulita Myatt",
+      "created_by": "Jacklin Fierro",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "60",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Bekki Denisyuk",
+      "created_by": "Halette Conrath",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 686
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "61",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Gaile Loughan",
+      "created_by": "Liliane Nussey",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "62",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Kingston Lebbon",
+      "created_by": "Quintin Nemchinov",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "63",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Amalita TSpice Spectacleer",
+      "created_by": "Chlo Careless",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 343
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "64",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Charlotta Wayne",
+      "created_by": "Kacey Durbridge",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "65",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Javier Joron",
+      "created_by": "Ronald Dinesen",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "66",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Sherlocke Millery",
+      "created_by": "Keriann Tennewell",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 236
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "67",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Tova Gibbon",
+      "created_by": "Ram Beton",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "68",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Lanie Warstall",
+      "created_by": "Edi Esplin",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 852
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "69",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rozina Trahearn",
+      "created_by": "Lucian Tustin",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 455
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "70",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jammie Darrach",
+      "created_by": "Hastings Tomich",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 233
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "71",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hannis Birtwell",
+      "created_by": "Tiphany Raleston",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 938
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "72",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Pietra Norcliffe",
+      "created_by": "Mavra Perrington",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 486
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "73",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Arlana O'Scandall",
+      "created_by": "Ted Pirrie",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 742
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "74",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Milicent Isacke",
+      "created_by": "Bucky Scutt",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 883
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "75",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Carla Meekin",
+      "created_by": "Joyous Itzik",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "76",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Fifine Yvon",
+      "created_by": "Kynthia Langmead",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 72
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "77",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Berri Sherratt",
+      "created_by": "Emilee Still",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "78",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Patrizio Mattheus",
+      "created_by": "Ari Malyan",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 755
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "79",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Benedetta Cremen",
+      "created_by": "Guenevere Olivie",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "80",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Bambi Tedahl",
+      "created_by": "Daphna Jeandin",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 742
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "81",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "OnYum Yardea Prenty",
+      "created_by": "Gracia Shalloe",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "82",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Irvin Chatto",
+      "created_by": "Taffy O' Gara",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 856
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "83",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rochette Bloy",
+      "created_by": "Ivett Wincott",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "84",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Arnuad Edgson",
+      "created_by": "Eugen Derington",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "85",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Omar Search",
+      "created_by": "Jaquenette Bebbington",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "86",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Galvan Bes",
+      "created_by": "Gussie Collyer",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "87",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hilda Meegin",
+      "created_by": "AnYum Yardea Hlavecek",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "88",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hedwiga Tompkiss",
+      "created_by": "Dilan Coke",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "89",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Colman Burhouse",
+      "created_by": "Ibby McPike",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 446
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "90",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Viv Burkwood",
+      "created_by": "Fowler Giametti",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 414
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "91",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Berti Dillet",
+      "created_by": "Marlee Manvell",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "92",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Case Cornau",
+      "created_by": "Aloysia Belcham",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 944
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "93",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rad Kilcoyne",
+      "created_by": "Rochella Barden",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 655
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "94",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Veronique Petrelli",
+      "created_by": "Ivory Disbrey",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "95",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Erv Liffey",
+      "created_by": "Roman Gommes",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "96",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Benn Rider",
+      "created_by": "Shelli Pimmocke",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "97",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Antonino Kalaher",
+      "created_by": "Ezechiel O' Borne",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 314
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "98",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Brenda Seedman",
+      "created_by": "Minda Oloshin",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "99",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Aldwin Lock",
+      "created_by": "Cary Ramlot",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 122
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "100",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Roselle Arnet",
+      "created_by": "Malena Dudill",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "101",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hilde Wilson",
+      "created_by": "Laverna Bewlie",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 328
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "102",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Pennie GSpice Spectacleeson",
+      "created_by": "Ibbie Lebell",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "103",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "AuYum Yardie Smalridge",
+      "created_by": "Sloane Gorton",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "104",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Janith Silber",
+      "created_by": "Claire Lawlings",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 806
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "105",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Sean Samme",
+      "created_by": "Carol Polycote",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "106",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Christiane Ord",
+      "created_by": "Kerwinn Brinsford",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "107",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Alleen Ruos",
+      "created_by": "Carolynn Pruckner",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "108",
+      "name": "Tasty Trails",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Farley Fredson",
+      "created_by": "Itch Barnewall",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 592
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "109",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Monte McKeon",
+      "created_by": "Lelia Goves",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "110",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Ophelia Rarity",
+      "created_by": "Duffy Houlston",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 212
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "111",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Boy Basnett",
+      "created_by": "Demetria Kuhwald",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "112",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Danit Amies",
+      "created_by": "Maxwell Sygroves",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 757
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "113",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Wandis Shilladay",
+      "created_by": "Angelita Gandar",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 385
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "114",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jacynth Beasleigh",
+      "created_by": "Michaeline Garvagh",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 143
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "115",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Noella Lamborne",
+      "created_by": "Hillery Pierson",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 932
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "116",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Case Gazzard",
+      "created_by": "Rois Hudd",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "117",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Page Ackroyd",
+      "created_by": "Carlina Worden",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 79
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "118",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Cullie Jagels",
+      "created_by": "Garrard Merle",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "119",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Persis Tabrett",
+      "created_by": "Jobey Whorall",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "120",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Iseabal Wasmuth",
+      "created_by": "Ariana Halstead",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "121",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Lorrie Cullinane",
+      "created_by": "Derrick Tucker",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 50
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "122",
+      "name": "Delish Delight",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Dorella Darker",
+      "created_by": "Barney Gosby",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 311
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "123",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Cece Medler",
+      "created_by": "Deanna Fruish",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 90
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "124",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Arch Chuck",
+      "created_by": "Urbanus Earland",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 560
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "125",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Kellen Kix",
+      "created_by": "Leona Filan",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 179
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "126",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Minnie Pyson",
+      "created_by": "Danila Chesney",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 81
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "127",
+      "name": "Tasty Trails",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Evie Pickersgill",
+      "created_by": "Mayor Manuello",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 16
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "128",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Vinni Sang",
+      "created_by": "Way Gething",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 29
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "129",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Nissie Danat",
+      "created_by": "Kial Copnall",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 242
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "130",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Danny Stoneman",
+      "created_by": "AnYum Yardomache Chastang",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 263
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "131",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Georgia Hammon",
+      "created_by": "Dominique Maris",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 658
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "132",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Leilah Gayforth",
+      "created_by": "Rhona Carrick",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "133",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Kahaleel Tschursch",
+      "created_by": "Aldo Plaid",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 468
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "134",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hatti Taffe",
+      "created_by": "Octavius Hairs",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 77
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "135",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rossy Amner",
+      "created_by": "Donetta Demageard",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "136",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Carey Banthorpe",
+      "created_by": "Hill Semark",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "137",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Temple Daice",
+      "created_by": "Redd Osorio",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "138",
+      "name": "Delish Delight",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Honoria Sheaber",
+      "created_by": "Titos Telford",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 299
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "139",
+      "name": "Yum Yard",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Mignon Luchetti",
+      "created_by": "Seumas Leadbeatter",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "140",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Terra Naper",
+      "created_by": "Garner Velden",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 840
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "141",
+      "name": "Spice Spectacle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Hilario Prisley",
+      "created_by": "Lay Bielfelt",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 81
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "142",
+      "name": "Flavor Fiesta",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Jaime Simonite",
+      "created_by": "Cybil McGaugie",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 231
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "143",
+      "name": "Yum Yard",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Erena Croser",
+      "created_by": "Dulcie Robez",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "144",
+      "name": "Savory Sizzle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Rolland Jankovic",
+      "created_by": "Ben Coots",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "145",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Bunni McGreil",
+      "created_by": "Lyn Fleote",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "146",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Katie Kordes",
+      "created_by": "Gladi Worvell",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 233
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "147",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Clem Gronav",
+      "created_by": "Clarice Keneforde",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "148",
+      "name": "Savory Sizzle",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Aldo Tremain",
+      "created_by": "Salvidor Matusovsky",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 551
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "149",
+      "name": "Flavor Fiesta",
+      "status": "active",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Saba Durham",
+      "created_by": "Huey Glinde",
+      "tags": "string",
+      "actions": [],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    },
+    {
+      "id": "150",
+      "name": "Spice Spectacle",
+      "status": "inactive",
+      "created_at": "4/17/2024",
+      "updated_at": "4/17/2024",
+      "archived_at": "4/17/2024",
+      "updated_by": "Fanni Canacott",
+      "created_by": "Farand Dunkerley",
+      "tags": "string",
+      "actions": [
+        {
+          "name": "navigate_to_shop",
+          "props": {
+            "shop_id": 266
+          }
+        }
+      ],
+      "images": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      },
+      "videos": {
+        "english": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "greek": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover",
+        "russian": "https://cdn.e-food.gr/cdn-cgi/image/f=auto,w=315,h=125,dpr=2/shop/2056247/cover"
+      }
+    }
+  ]
+}
