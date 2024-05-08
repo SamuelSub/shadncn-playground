@@ -22,7 +22,7 @@ const NavLinks = ({ routes }: NavbarProps) => {
   const pathname = usePathname();
 
   const getPositionOfCurrentNavigationLink = (routeIndex: number) => {
-    const clickedRouteHref = routes?.[routeIndex].href || "";
+    const clickedRouteHref = routes?.[routeIndex]?.href || "";
     const navigationLinkElement = document.getElementById(clickedRouteHref);
 
     const firstLink = document.getElementById(routes?.[0].href || "");
